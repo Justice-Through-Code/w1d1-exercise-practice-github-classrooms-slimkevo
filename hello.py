@@ -1,9 +1,8 @@
 
 def hello_world():
     #print('Hello World!')
-    
 #hello_world()
-
+ print('Hello World!')
 # Delete the `#` at the start of the lines 3 &  5 above this one to 'run' the code you've written.
 # Once you've saved this change, 'run' your code in your terminal by
 # 1. `cd`ing into the folder that this file is in
